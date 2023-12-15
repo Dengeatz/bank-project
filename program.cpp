@@ -39,7 +39,7 @@ class Bank { // Сам банк
   private:
     BankStatus Bank_Status = Enabled;
 };
-
+//dsadas
 class User { // Пользователь - самый распространенный класс
 public: 
     uint32_t balance = 0;
